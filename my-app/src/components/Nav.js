@@ -7,9 +7,9 @@ function Nav() {
   return (
     <nav className="navbar navbar-expand-lg navbar-light bg-light">
       <div className="collapse navbar-collapse row" id="navbarNav">
-        {/* <div className="input-group col-8">
+        <div className="input-group col-8">
           <SearchDOB />
-        </div> */}
+        </div>
         <div className="search-area col-4">
           <SearchName />
         </div>

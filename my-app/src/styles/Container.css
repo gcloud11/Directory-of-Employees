@@ -1,7 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300&display=swap');
 
 .Container {
-    background-image: url('../utils/images/Back.jpg');
     width: 100%;
     height: 100%;
     font-family: 'Comfortaa', cursive;

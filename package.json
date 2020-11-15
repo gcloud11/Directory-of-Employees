@@ -1,5 +1,6 @@
 {
   "name": "my-app",
+  "homepage": "https://github.com/gcloud11/Directory-of-Employees",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

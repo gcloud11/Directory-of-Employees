@@ -1,6 +1,4 @@
 # Directory-of-Employees
-<<<<<<< HEAD
-=======
 
 This application allows the user to view an entire employee directory at once to have quick access to the employee information.
 
@@ -8,4 +6,3 @@ This application allows the user to view an entire employee directory at once to
 
 ## Visuals
 <img width="1045" alt="Employee Directory" src="https://user-images.githubusercontent.com/67169488/99194117-1d222080-2743-11eb-9f21-41b2a05e9a68.png">
->>>>>>> 2bb1ff2584951bfc3c0d3da11421515e35e21066
